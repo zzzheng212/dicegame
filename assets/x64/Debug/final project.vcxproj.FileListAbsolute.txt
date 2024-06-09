@@ -1,0 +1,8 @@
+C:\Users\a5349\OneDrive\桌面\程式碼\x64\Debug\final project.vcxproj.AssemblyReference.cache
+C:\Users\a5349\OneDrive\桌面\程式碼\x64\Debug\final_project.Form1.resources
+C:\Users\a5349\OneDrive\桌面\程式碼\x64\Debug\final project.vcxproj.GenerateResource.cache
+C:\Users\a5349\OneDrive\桌面\程式碼\x64\Debug\final project.exe
+C:\Users\steve\OneDrive\桌面\程式碼\x64\Debug\final project.vcxproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\桌面\程式碼\x64\Debug\final_project.Form1.resources
+C:\Users\steve\OneDrive\桌面\程式碼\x64\Debug\final project.vcxproj.GenerateResource.cache
+C:\Users\steve\OneDrive\桌面\程式碼\x64\Debug\final project.exe

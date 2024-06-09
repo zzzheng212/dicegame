@@ -1,0 +1,44 @@
+﻿  CppCLR_WinformsProjekt.cpp
+C:\Users\steve\OneDrive\桌面\程式碼\data_format.h(23,16): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(18,10): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(403,20): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(407,20): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(489,14): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(490,14): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(493,112): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(493,97): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(499,14): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(500,14): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(503,112): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(503,97): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(514,14): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(515,14): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(564,21): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(565,14): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(566,14): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(615,12): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(616,12): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(626,12): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(627,12): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(654,12): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(655,12): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(696,27): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(701,28): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(711,23): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(716,24): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(728,43): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(764,19): warning C4553: '==': 未使用運算式結果; 您是否想要 '='?
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(802,21): warning C4553: '==': 未使用運算式結果; 您是否想要 '='?
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(810,15): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(827,15): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(877,22): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(881,22): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(887,22): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(902,21): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(906,21): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(912,21): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(919,19): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(937,13): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\steve\OneDrive\桌面\程式碼\Form1.h(938,13): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  AssemblyInfo.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  final project.vcxproj -> C:\Users\steve\OneDrive\桌面\程式碼\x64\Debug\final project.exe
